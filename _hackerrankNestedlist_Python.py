@@ -7,6 +7,9 @@ Created on Thu Jan 23 15:30:20 2020
 """
 
 def fun(nameList,scoreList):
+    """
+n        input :- 
+    """
     sorted_score = sorted((list(set(scoreList))))
     first = sorted_score[0]
 
